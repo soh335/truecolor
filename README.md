@@ -2,6 +2,8 @@
 
 Output with true color in temrinal. (require true color support temrinals)
 
+![](https://raw.githubusercontent.com/soh335/truecolor/master/_example/screencapture.png)
+
 ## INSTALL
 
 ```
