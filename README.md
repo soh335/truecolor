@@ -1,3 +1,5 @@
+[![wercker status](https://app.wercker.com/status/acada82918999d19aa45088dc7adcf59/s/master "wercker status")](https://app.wercker.com/project/byKey/acada82918999d19aa45088dc7adcf59)
+
 # truecolor
 
 Output with true color in temrinal. (require true color support temrinals)
