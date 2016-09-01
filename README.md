@@ -29,3 +29,7 @@ tc.Fprintln(os.Stdout, "truecolor")
 ## SEA ALSO
 
 * https://gist.github.com/XVilka/8346728
+
+## TODO
+
+* document
